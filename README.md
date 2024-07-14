@@ -9,14 +9,14 @@ This repository contains the necessary files to run the page.
 ## Usage
 
 1. **Setup**: Clone this repository to your local machine.
-   git clone <repository-url>
-   cd Xzect-task-8
+   `git clone <repository-url>`
+   `cd Xzect-task-8`
 
 2. **Install Dependencies**: Install required Node.js modules.
-    npm install
+    `npm install`
 
 2. **Run Development Server**: Start the Next.js development server.
-    npm run dev
+    `npm run dev`
 
 Open your browser and go to http://localhost:3000 to view the project.
 
